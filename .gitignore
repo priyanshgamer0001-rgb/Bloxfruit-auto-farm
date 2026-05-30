@@ -1,0 +1,21 @@
+-- Lua cache files
+*.luac
+
+-- OS files
+.DS_Store
+Thumbs.db
+
+-- IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+-- Local test files
+test_local/
+debug_logs/
+
+-- Backup files
+*.bak
+*.backup
+*~
